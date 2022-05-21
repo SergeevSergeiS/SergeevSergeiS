@@ -17,17 +17,17 @@
 <!-- Education section -->
 <details>	
   <summary><b>🧑‍🎓𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟</b></summary>
-
+<img title="Allure Behaviors" src="images/logo/wip.png">
 </details>
 <!-- Tools section -->
 <details>	
   <summary><b>🛠️ 𝔽𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕥𝕠𝕠𝕝𝕤</b></summary>
-
+<img title="Allure Behaviors" src="images/logo/wip.png">
 </details>
 <!-- Additional info section -->
 <details>	
   <summary><b>🔍 𝕄𝕠𝕣𝕖 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖</b></summary>
-
+<img title="Allure Behaviors" src="images/logo/wip.png">
 </details>
 <!-- Github Stats section -->
 <details>	
@@ -56,5 +56,5 @@
 <!-- Repos section -->
 <details>	
   <summary><b>💻 ℝ𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤</b></summary>
-<img title="Allure Behaviors" src="images/logo/wip.svg">
+<img title="Allure Behaviors" src="images/logo/wip.png">
 </details>
