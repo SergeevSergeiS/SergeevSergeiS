@@ -5,5 +5,5 @@
 
 <!-- Typing SVG by SergeevSergeiS - https://github.com/SergeevSergeiS/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/SergeevSergeiS/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Sergei;I'm+currently+working+as+a+QA+engineer;And+I'm+always+learning+new+things;Nice+to+meet+you!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=16"></a>
+  <a href="https://github.com/SergeevSergeiS/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Sergei;I'm+currently+working+as+a+QA+engineer;And+I'm+always+learning+new+things;Nice+to+meet+you!&font=Fira%20Code&center=true&width=440&height=45&&vCenter=true&size=16"></a>
 </p>
