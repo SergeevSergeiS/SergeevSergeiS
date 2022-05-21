@@ -17,7 +17,7 @@
 
 <!-- Github Stats section -->
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ 𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤</b></summary>
 
   <br>
 <p align=center>
