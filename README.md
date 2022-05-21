@@ -14,10 +14,24 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/sergeevss90/"><img width="32px" alt="Linkedin" title="Linkedin" src="images/logo/Linkedin_icon.svg"/></a>
 </p>
+<!-- Education section -->
+<details>	
+  <summary><b>🧑‍🎓𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟</b></summary>
 
+</details>
+<!-- Tools section -->
+<details>	
+  <summary><b>🛠️ 𝔽𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕥𝕠𝕠𝕝𝕤</b></summary>
+
+</details>
+<!-- Additional info section -->
+<details>	
+  <summary><b>🔍 𝕄𝕠𝕣𝕖 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖</b></summary>
+
+</details>
 <!-- Github Stats section -->
 <details>	
-  <summary><b>⚡ 𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤</b></summary>
+  <summary><b>🔥 𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤</b></summary>
 
   <br>
 <p align=center>
@@ -38,4 +52,9 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=SergeevSergeiS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+</details>
+<!-- Repos section -->
+<details>	
+  <summary><b>💻 ℝ𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤</b></summary>
+
 </details>
