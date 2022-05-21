@@ -11,4 +11,6 @@
   <a href="https://t.me/SergeevSS90"><img width="32px" alt="Telegram" title="Telegram" src="images/logo/Telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://vk.com/id3951525"><img width="32px" alt="VK" title="VK" src="images/logo/vk.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/sergeevss90/"><img width="32px" alt="Linkedin" title="Linkedin" src="images/logo/Linkedin_icon.svg"/></a>
 </p>
