@@ -1,9 +1,9 @@
-<h1 align="center">ℍ𝕖𝕝𝕝𝕠 𝕥𝕙𝕖𝕣𝕖 𝕒𝕟𝕕 𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕒𝕘𝕖!
+<h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮 𝓪𝓷𝓭 𝔀𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓹𝓪𝓰𝓮!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝕄𝕪+𝕟𝕒𝕞𝕖+𝕚𝕤+𝕊𝕖𝕣𝕘𝕖𝕚;𝕀+𝕒𝕞+𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪+𝕨𝕠𝕣𝕜𝕚𝕟𝕘+𝕒𝕤+𝕒+ℚ𝔸+𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣;𝔸𝕟𝕕+𝕀+𝕒𝕞+𝕒𝕝𝕨𝕒𝕪𝕤+𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘+𝕟𝕖𝕨+𝕥𝕙𝕚𝕟𝕘𝕤;ℕ𝕚𝕔𝕖+𝕥𝕠+𝕞𝕖𝕖𝕥+𝕪𝕠𝕦!&font=Fira%20Code&center=true&width=500&height=50&color=61dafb&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝓜𝔂+𝓷𝓪𝓶𝓮+𝓲𝓼+𝓢𝓮𝓻𝓰𝓮𝓲;𝓘+𝓪𝓶+𝔀𝓸𝓻𝓴𝓲𝓷𝓰+𝓪𝓼+𝓪+𝓠𝓐+𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻;𝓐𝓷𝓭+𝓘+𝓪𝓶+𝓪𝓵𝔀𝓪𝔂𝓼+𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰+𝓷𝓮𝔀+𝓽𝓱𝓲𝓷𝓰𝓼;𝓝𝓲𝓬𝓮+𝓽𝓸+𝓶𝓮𝓮𝓽+𝔂𝓸𝓾!&font=Fira%20Code&center=true&width=650&height=50&color=61dafb&vCenter=true&size=26"></a>
 </p>
 
 <!-- Social icons section -->
@@ -14,24 +14,39 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/sergeevss90/"><img width="32px" alt="Linkedin" title="Linkedin" src="images/logo/Linkedin_icon.svg"/></a>
 </p>
+
 <!-- Education section -->
 <details>	
-  <summary><b>🧑‍🎓𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟</b></summary>
+  <summary>👨‍🎓 𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷</summary>
 <img title="Allure Behaviors" src="images/logo/wip.png">
 </details>
 <!-- Tools section -->
 <details>	
-  <summary><b>🛠️ 𝔽𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕥𝕠𝕠𝕝𝕤</b></summary>
+  <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼</summary>
 <img title="Allure Behaviors" src="images/logo/wip.png">
 </details>
 <!-- Additional info section -->
 <details>	
-  <summary><b>🔍 𝕄𝕠𝕣𝕖 𝕒𝕓𝕠𝕦𝕥 𝕞𝕖</b></summary>
-<img title="Allure Behaviors" src="images/logo/wip.png">
+  <summary>🔍 𝓜𝓸𝓻𝓮 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</summary>
+  
+  ```mermaid
+    gantt
+    title 𝒲𝑜𝓇𝓀 𝑒𝓍𝓅𝑒𝓇𝒾𝑒𝓃𝒸𝑒
+    dateFormat  YYYY-MM
+    section 👨‍💻
+    𝒮𝓊𝓅𝓅𝑜𝓇𝓉 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇         :a1, 2014-02, 912d
+    С𝑜𝓂𝓂𝓊𝓃𝒾𝒸𝒶𝓉𝒾𝑜𝓃𝓈 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇 :a1, 2016-05, 608d
+    𝒮𝓎𝓈𝓉𝑒𝓂 𝒜𝒹𝓂𝒾𝓃𝒾𝓈𝓉𝓇𝒶𝓉𝑜𝓇    :a1, 2017-07, 604d
+    𝒮𝓎𝓈𝓉𝑒𝓂 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇          :a1, 2019-01,  1005d
+    𝒬𝒜 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇               :a1, 2021-04, 504d
+  ```
+  <p align="center">
+  <img title="wfh" src="images/gifs/giphy.gif" width="200">
+</p>
 </details>
 <!-- Github Stats section -->
 <details>	
-  <summary><b>🔥 𝔾𝕚𝕥𝕙𝕦𝕓 𝕊𝕥𝕒𝕥𝕤</b></summary>
+  <summary>🔥 𝓖𝓲𝓽𝓗𝓾𝓫  𝓢𝓽𝓪𝓽𝓼</summary>
 
   <br>
 <p align=center>
@@ -55,6 +70,6 @@
 </details>
 <!-- Repos section -->
 <details>	
-  <summary><b>💻 ℝ𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤</b></summary>
+  <summary>💻 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼</summary>
 <img title="Allure Behaviors" src="images/logo/wip.png">
 </details>
