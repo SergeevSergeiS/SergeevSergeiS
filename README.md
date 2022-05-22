@@ -40,8 +40,12 @@
     𝒮𝓎𝓈𝓉𝑒𝓂 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇          :done, 2019-01,  1005d
     𝒬𝒜 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇               :done, 2021-04, 504d
 ```
-<br><img src="images/gifs/giphy.gif" alt="image" align="left" width="100"/> &#8287;&#8287;𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓪𝓽 &#8287;<a href="https://bellintegrator.ru/"><img width="32px" alt="Telegram" title="Bell Integrator" src="images/logo/Bell.png"/></a>
+𝑀𝓎 𝒞𝒱 𝓌𝒾𝓁𝓁 𝒷𝑒 𝒽𝑒𝓇𝑒 𝓈𝑜𝑜𝓃 😉  
+<br><img src="images/gifs/wfh.gif" alt="image" align="left" width="100"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;𝒞𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓌𝑜𝓇𝓀𝒾𝓃𝑔 𝒶𝓉 &#8287;<a href="https://bellintegrator.ru/"><img width="32px" alt="Bell Integrator" title="Bell Integrator" src="images/logo/Bell.png"/></a>
+<cut/>
+<br><img src="images/gifs/corgi.webp" alt="image" align="left" width="100"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;𝑀𝓎 𝒹𝑜𝑔 𝒶𝓁𝓈𝑜 𝓈𝒶𝓎𝓈 "𝐻𝐼"! &#8287;<a href="https://www.instagram.com/corgi_olivka/"><img width="32px" alt="Corgi Instagram" title="Corgi Instagram" src="images/logo/Instagram.png"/></a>
 <cut/>  
+<br clear="left"/>  
 <br clear="left"/>
   
 
