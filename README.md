@@ -18,8 +18,36 @@
 <!-- Education section -->
 <details>	
   <summary>👨‍🎓 𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷</summary>
-<img title="Allure Behaviors" src="images/logo/wip.png">
-</details>
+  <table width="100%" border='0'>
+    <tr>
+        <td width="30%" align="center" valign="center">
+            <img src="images/logo/ssu.png">
+            </td>
+            <td valign="middle">𝒮𝒶𝓇𝒶𝓉𝑜𝓋 𝒮𝓉𝒶𝓉𝑒 𝒰𝓃𝒾𝓋𝑒𝓇𝓈𝒾𝓉𝓎.
+            </br>𝒜𝓅𝓅𝓁𝒾𝑒𝒹 𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝒮𝒸𝒾𝑒𝓃𝒸𝑒 𝒾𝓃 𝒮𝑜𝒸𝒾𝑜𝓁𝑜𝑔𝓎
+            <a target="_blank" href="http://www.sgu.ru/en">sgu.ru</a>.
+    </td>
+</tr>
+<tr>
+    <td width="30%" valign="center">
+        <img src="images/logo/JB.png">
+        </td>
+        <td valign="middle">𝒫𝓇𝑜𝒿𝑒𝒸𝓉-𝒷𝒶𝓈𝑒𝒹 𝒪𝓃𝓁𝒾𝓃𝑒 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝒫𝓁𝒶𝓉𝒻𝑜𝓇𝓂
+          <a target="_blank" href="https://hyperskill.org/">hyperskill.org</a>. 𝑀𝓎 𝓅𝓇𝑜𝒻𝒾𝓁𝑒:
+            <a href="https://hyperskill.org/profile/181586533"><img width="48px" alt="JB" title="JB" src="images/logo/JB-small.png"/></a> 
+</td>
+<tr>
+    <td width="30%" valign="center">
+        <img src="images/logo/qa-guru.png">
+        </td>
+        <td valign="middle">𝒮𝒸𝒽𝑜𝑜𝓁 𝑜𝒻 𝒜𝓊𝓉𝑜𝓂𝒶𝓉𝒾𝑜𝓃 𝒯𝑒𝓈𝓉𝒾𝓃𝑔 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇𝓈 
+            <a target="_blank" href="https://qa.guru">qa.guru</a>. 
+        </td>
+    </tr>
+</tr>
+</table>
+</br>
+  </details>
 <!-- Tools section -->
 <details>	
   <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼</summary>
