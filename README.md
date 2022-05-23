@@ -53,9 +53,51 @@
 <!-- Tools section -->
 <details>	
   <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼</summary>
-<img title="Allure Behaviors" src="images/logo/wip.png">
-</br>
+  
+#### 🤖 𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 𝒶𝓃𝒹 𝓂𝒶𝓇𝓀𝓊𝓅 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈
+
+<p>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+</p>
+
+#### 📚 𝐹𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒶𝓃𝒹 𝓁𝒾𝒷𝓇𝒶𝓇𝒾𝑒𝓈
+
+<p>
+    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+</p>
+
+#### 🧰 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝒶𝓃𝒹 𝓉𝑜𝑜𝓁𝓈
+
+<p>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?logo=PyCharm&logoColor=black&color=black&labelColor=green"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white"></a>
+    <a href="#"><img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle&logoColor=white"></a>
+    <a href="#"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
+</p>
+  
+#### 💻 𝒮𝑒𝓇𝓋𝑒𝓇𝓈 𝒶𝓃𝒹 𝒪𝓅𝑒𝓇𝒶𝓉𝒾𝓃𝑔 𝒮𝓎𝓈𝓉𝑒𝓂𝓈
+
+<p>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
+    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
+</p>
+  
 </details>
+
 <!-- Additional info section -->
 <details>	
   <summary>🔍 𝓜𝓸𝓻𝓮 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</summary>
@@ -76,7 +118,7 @@
 <cut/>
 <br><img src="images/gifs/corgi.webp" alt="image" align="left" width="100"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;𝑀𝓎 𝒹𝑜𝑔 𝒶𝓁𝓈𝑜 𝓈𝒶𝓎𝓈 "𝐻𝐼"! &#8287;<a href="https://www.instagram.com/corgi_olivka/"><img width="32px" alt="Corgi Instagram" title="Corgi Instagram" src="images/logo/Instagram.png"/></a>
 <cut/>  
-<br clear="left"/>  
+<br clear="left"/>
 🌍 𝐼 𝓈𝓅𝑒𝒶𝓀 𝑅𝓊𝓈𝓈𝒾𝒶𝓃 (𝓃𝒶𝓉𝒾𝓋𝑒), 𝐸𝓃𝑔𝓁𝒾𝓈𝒽 (𝐵𝟤)
 </details>
 
