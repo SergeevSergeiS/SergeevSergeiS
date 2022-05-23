@@ -53,8 +53,8 @@
 <!-- Tools section -->
 <details>	
   <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼</summary>
-  
-#### 🤖 𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 𝒶𝓃𝒹 𝓂𝒶𝓇𝓀𝓊𝓅 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈
+  <p></p>  
+ 🤖 𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 𝒶𝓃𝒹 𝓂𝒶𝓇𝓀𝓊𝓅 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -64,13 +64,13 @@
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-#### 📚 𝐹𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒶𝓃𝒹 𝓁𝒾𝒷𝓇𝒶𝓇𝒾𝑒𝓈
+ 📚 𝐹𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒶𝓃𝒹 𝓁𝒾𝒷𝓇𝒶𝓇𝒾𝑒𝓈
 
 <p>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
 </p>
 
-#### 🧰 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝒶𝓃𝒹 𝓉𝑜𝑜𝓁𝓈
+ 🧰 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝒶𝓃𝒹 𝓉𝑜𝑜𝓁𝓈
 
 <p>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
@@ -87,7 +87,7 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
 </p>
   
-#### 💻 𝒮𝑒𝓇𝓋𝑒𝓇𝓈 𝒶𝓃𝒹 𝒪𝓅𝑒𝓇𝒶𝓉𝒾𝓃𝑔 𝒮𝓎𝓈𝓉𝑒𝓂𝓈
+ 💻 𝒮𝑒𝓇𝓋𝑒𝓇𝓈 𝒶𝓃𝒹 𝒪𝓅𝑒𝓇𝒶𝓉𝒾𝓃𝑔 𝒮𝓎𝓈𝓉𝑒𝓂𝓈
 
 <p>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
@@ -119,7 +119,7 @@
 <br><img src="images/gifs/corgi.webp" alt="image" align="left" width="100"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;𝑀𝓎 𝒹𝑜𝑔 𝒶𝓁𝓈𝑜 𝓈𝒶𝓎𝓈 "𝐻𝐼"! &#8287;<a href="https://www.instagram.com/corgi_olivka/"><img width="32px" alt="Corgi Instagram" title="Corgi Instagram" src="images/logo/Instagram.png"/></a>
 <cut/>  
 <br clear="left"/>
-🌍 𝐼 𝓈𝓅𝑒𝒶𝓀 𝑅𝓊𝓈𝓈𝒾𝒶𝓃 (𝓃𝒶𝓉𝒾𝓋𝑒), 𝐸𝓃𝑔𝓁𝒾𝓈𝒽 (𝐵𝟤)
+🌍 𝐼 𝓈𝓅𝑒𝒶𝓀 𝑅𝓊𝓈𝓈𝒾𝒶𝓃 (𝓃𝒶𝓉𝒾𝓋𝑒), 𝐸𝓃𝑔𝓁𝒾𝓈𝒽 (𝐵𝟤)<p></p>  
 </details>
 
 <!-- Github Stats section -->
