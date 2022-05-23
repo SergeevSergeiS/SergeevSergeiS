@@ -1,6 +1,5 @@
 <h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮 𝓪𝓷𝓭 𝔀𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓹𝓪𝓰𝓮!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝓜𝔂+𝓷𝓪𝓶𝓮+𝓲𝓼+𝓢𝓮𝓻𝓰𝓮𝓲;𝓘+𝔀𝓸𝓻𝓴+𝓪𝓼+𝓪+𝓠𝓐+𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻;𝓐𝓵𝔀𝓪𝔂𝓼+𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰+𝓷𝓮𝔀+𝓽𝓱𝓲𝓷𝓰𝓼;𝓝𝓲𝓬𝓮+𝓽𝓸+𝓶𝓮𝓮𝓽+𝔂𝓸𝓾!&font=Fira%20Code&center=true&width=650&height=50&color=61dafb&vCenter=true&size=26"></a>
@@ -13,6 +12,8 @@
   <a href="https://vk.com/id3951525"><img width="32px" alt="VK" title="VK" src="images/logo/vk.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/sergeevss90/"><img width="32px" alt="Linkedin" title="Linkedin" src="images/logo/Linkedin_icon.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://komarev.com/ghpvc/?username=SergeevSergeiS" alt="Profile Views:">
 </p>
 
 <!-- Education section -->
@@ -48,10 +49,12 @@
 </table>
 </br>
   </details>
+  
 <!-- Tools section -->
 <details>	
   <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼</summary>
 <img title="Allure Behaviors" src="images/logo/wip.png">
+</br>
 </details>
 <!-- Additional info section -->
 <details>	
@@ -76,6 +79,7 @@
 <br clear="left"/>  
 🌍 𝐼 𝓈𝓅𝑒𝒶𝓀 𝑅𝓊𝓈𝓈𝒾𝒶𝓃 (𝓃𝒶𝓉𝒾𝓋𝑒), 𝐸𝓃𝑔𝓁𝒾𝓈𝒽 (𝐵𝟤)
 </details>
+
 <!-- Github Stats section -->
 <details>	
   <summary>🔥 𝓖𝓲𝓽𝓗𝓾𝓫  𝓢𝓽𝓪𝓽𝓼</summary>
@@ -99,9 +103,12 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=SergeevSergeiS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+</br>
 </details>
+
 <!-- Repos section -->
 <details>	
   <summary>💻 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼</summary>
 <img title="Allure Behaviors" src="images/logo/wip.png">
+</br>
 </details>
