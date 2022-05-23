@@ -87,7 +87,7 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></a>
 </p>
   
- 💻 𝒮𝑒𝓇𝓋𝑒𝓇𝓈 𝒶𝓃𝒹 𝒪𝓅𝑒𝓇𝒶𝓉𝒾𝓃𝑔 𝒮𝓎𝓈𝓉𝑒𝓂𝓈
+ 💻 𝒮𝑒𝓇𝓋𝑒𝓇𝓈 𝒶𝓃𝒹 𝒪𝓅𝑒𝓇𝒶𝓉𝒾𝑜𝓃 𝒮𝓎𝓈𝓉𝑒𝓂𝓈
 
 <p>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
