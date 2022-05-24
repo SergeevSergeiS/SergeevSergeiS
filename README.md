@@ -62,12 +62,14 @@
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-0078D6?logo=windows&logoColor=white"></a>
 </p>
 
  📚 𝐹𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒶𝓃𝒹 𝓁𝒾𝒷𝓇𝒶𝓇𝒾𝑒𝓈
 
 <p>
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+    <a href="#"><img alt="Selenide" src="https://img.shields.io/badge/Selenide-008CC1?logo=neo4j&logoColor=white"></a>
 </p>
 
  🧰 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝒶𝓃𝒹 𝓉𝑜𝑜𝓁𝓈
@@ -93,8 +95,13 @@
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
+    <a href="#"><img alt="WindowsServer" src="https://img.shields.io/badge/Windows%20Server-%230db7ed?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
-    <a href="#"><img alt="WindowsSerVer" src="https://img.shields.io/badge/Windows%20Server-%230db7ed?logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="DNSServer" src="https://img.shields.io/badge/DNS%20Server-%230db7ed?logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="AsteriskServer" src="https://img.shields.io/badge/Asterisk%20Server-%5EFF33?logo=jasmine&logoColor=white"></a>
+    <a href="#"><img alt="DHCPServer" src="https://img.shields.io/badge/DHCP%20Server-%230db7ed?logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white"></a>
+    <a href="#"><img alt="Selenoid" src="https://img.shields.io/badge/Selenoid-%230288D1.svg?&logo=Sequelize&logoColor=white"></a>
 </p>
   
 </details>
@@ -146,6 +153,7 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=SergeevSergeiS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  https://activity-graph.herokuapp.com/graph?username=Ashutosh00710
 </p>
 </br>
 </details>
