@@ -94,6 +94,7 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
     <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
+    <a href="#"><img width="102px" alt="Telegram" title="Telegram" src="images/logo/WS.png"/></a>
 </p>
   
 </details>
