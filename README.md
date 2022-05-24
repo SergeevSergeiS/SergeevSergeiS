@@ -152,7 +152,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=SergeevSergeiS&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <a href="#"><img alt="SergeevSergeiS's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=SergeevSergeiS&bg_color=20232a&color=61dafb&line=61dafb&point=FFFFFF&border=61dafb&hide_border=true" width="100%" /></a>
 </p>
 </br>
 </details>
