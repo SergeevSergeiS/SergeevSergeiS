@@ -55,7 +55,8 @@
   <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼</summary>
   <p></p>  
  🤖 𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 𝒶𝓃𝒹 𝓂𝒶𝓇𝓀𝓊𝓅 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈
-
+<p>
+</p>  
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -68,8 +69,14 @@
  📚 𝐹𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒶𝓃𝒹 𝓁𝒾𝒷𝓇𝒶𝓇𝒾𝑒𝓈
 
 <p>
-    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"></a>  
+    <a href="#"><img alt="Gson" src="https://img.shields.io/badge/Gson-000000.svg?logo=java&logoColor=white"></a>  
+    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit5-25A162.svg?logo=check-circle&logoColor=white"></a>
+    <a href="#"><img alt="Faker" src="https://img.shields.io/badge/Faker-000000.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Selenide" src="https://img.shields.io/badge/Selenide-008CC1?logo=neo4j&logoColor=white"></a>
+    <a href="#"><img alt="Owner" src="https://img.shields.io/badge/Owner-000000.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Turtle" src="https://img.shields.io/badge/Turtle-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Allure" src="https://img.shields.io/badge/Allure-000000.svg?logo=java&logoColor=white"></a>
 </p>
 
  🧰 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝒶𝓃𝒹 𝓉𝑜𝑜𝓁𝓈
