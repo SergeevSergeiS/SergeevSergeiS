@@ -172,9 +172,9 @@
    <summary>🧑‍🎓 𝒥𝑒𝓉𝐵𝓇𝒶𝒾𝓃𝓈 𝒜𝒸𝒶𝒹𝑒𝓂𝓎</summary>
   <p></p>
   <p align="left">  
-  <a target="_blank" align="center" href="https://hyperskill.org/projects/50?track=15">Project "Blockchain"</a>:
+  <a target="_blank" align="center" href="https://hyperskill.org/projects/50?track=15">Project "BlockChain"</a>:
     <div align=center>
-      <a align="left" href="https://github.com/SergeevSergeiS/Blockchain" title="Blockchain"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=Blockchain&theme=react&border_color=61dafb&border_radius=10"></a>
+      <a align="left" href="https://github.com/SergeevSergeiS/BlockChain" title="Blockchain"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=BlockChain&theme=react&border_color=61dafb&border_radius=10"></a>
     </a>
     <a href="#" title="𝒫𝓇𝑜𝒿𝑒𝒸𝓉 𝒸𝑜𝓃𝓈𝑜𝓁𝑒">
       <img align="right" width=355 src="images/gifs/Blockchain.gif" />
@@ -182,7 +182,7 @@
   <p align="left">  
   <a target="_blank" align="center" href="https://hyperskill.org/projects/40">Project "Linear Equations Solver"</a>:
     <div align=center>
-      <a align="left" href="https://github.com/SergeevSergeiS/LinearEquationsSolver" title="LinearEquationsSolver"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=LinearEquationsSolver&theme=react&border_color=61dafb&border_radius=10"></a>
+      <a align="left" href="https://github.com/SergeevSergeiS/LinearEquationsSolver" title="LinearEquationsSolver"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=LinearEquationsSolver&theme=react&border_color=61dafb&border_radius=10"></a>
     </a>
     <a href="#" title="𝒫𝓇𝑜𝒿𝑒𝒸𝓉 𝒸𝑜𝓃𝓈𝑜𝓁𝑒">
       <img align="right" width=355 src="images/gifs/LES.gif" />
