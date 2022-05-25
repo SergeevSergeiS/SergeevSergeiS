@@ -174,10 +174,10 @@
   <p align="center">  
   <a target="_blank" align="center" href="https://hyperskill.org/projects/50?track=15">Project "Blockchain"</a>.
     <div align=center>
-      <a align="left" href="https://github.com/SergeevSergeiS/Blockchain" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=Blockchain&theme=react&border_color=61dafb&border_radius=10"></a>
+      <a align="left" href="https://github.com/SergeevSergeiS/Blockchain" title="Algorithms"><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=Blockchain&theme=react&border_color=61dafb&border_radius=10"></a>
     </a>
-    <a href="#" title="Project console">
-      <img align="right" width=390 src="images/gifs/Blockchain.gif" />
+    <a href="#" title="𝒫𝓇𝑜𝒿𝑒𝒸𝓉 𝒸𝑜𝓃𝓈𝑜𝓁𝑒">
+      <img align="right" width=355 src="images/gifs/Blockchain.gif" />
     </a>
   <br><br><br><br><br>
   </div>
