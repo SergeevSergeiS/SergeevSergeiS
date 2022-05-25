@@ -171,8 +171,8 @@
   <details>	
    <summary>🧑‍🎓 𝒥𝑒𝓉𝐵𝓇𝒶𝒾𝓃𝓈 𝒜𝒸𝒶𝒹𝑒𝓂𝓎</summary>
   <p></p>
-  <p align="center">  
-  <a target="_blank" align="center" href="https://hyperskill.org/projects/50?track=15">Project "Blockchain"</a>.
+  <p align="left">  
+  <a target="_blank" align="center" href="https://hyperskill.org/projects/50?track=15">Project "Blockchain"</a>:
     <div align=center>
       <a align="left" href="https://github.com/SergeevSergeiS/Blockchain" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=Blockchain&theme=react&border_color=61dafb&border_radius=10"></a>
     </a>
