@@ -167,6 +167,16 @@
 <!-- Repos section -->
 <details>	
   <summary>💻 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼</summary>
-<img title="Allure Behaviors" src="images/logo/wip.png">
+  <p></p>  
+  <details>	
+   <summary>🧑‍🎓 𝒥𝑒𝓉𝐵𝓇𝒶𝒾𝓃𝓈 𝒜𝒸𝒶𝒹𝑒𝓂𝓎</summary>
+  <p></p>
+</br>
+</details>
+<details>	
+  <summary>🧑‍🎓 𝒬𝒜 𝒢𝒰𝑅𝒰</summary>
+<img title="wip" width="320px" src="images/logo/wip.png">
+</br>
+</details>
 </br>
 </details>
