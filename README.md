@@ -1,10 +1,10 @@
 <h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮 𝓪𝓷𝓭 𝔀𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓹𝓪𝓰𝓮!
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝓜𝔂+𝓷𝓪𝓶𝓮+𝓲𝓼+𝓢𝓮𝓻𝓰𝓮𝓲;𝓘+𝔀𝓸𝓻𝓴+𝓪𝓼+𝓪+𝓠𝓐+𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻;𝓐𝓵𝔀𝓪𝔂𝓼+𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰+𝓷𝓮𝔀+𝓽𝓱𝓲𝓷𝓰𝓼;𝓝𝓲𝓬𝓮+𝓽𝓸+𝓶𝓮𝓮𝓽+𝔂𝓸𝓾!&font=Fira%20Code&center=true&width=650&height=50&color=61dafb&vCenter=true&size=26"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝓜𝔂+𝓷𝓪𝓶𝓮+𝓲𝓼+𝓢𝓮𝓻𝓰𝓮𝓲;𝓘+𝔀𝓸𝓻𝓴+𝓪𝓼+𝓪+𝓠𝓐+𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻;𝓐𝓵𝔀𝓪𝔂𝓼+𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰+𝓷𝓮𝔀+𝓽𝓱𝓲𝓷𝓰𝓼;𝓝𝓲𝓬𝓮+𝓽𝓸+𝓶𝓮𝓮𝓽+𝔂𝓸𝓾!&font=Fira%20Code&center=true&width=650&height=50&color=61dafb&vCenter=true&size=26"></a></h1>
 </p>
-
+<h3 align="left">
 <!-- Social icons section -->
 <p align="center">
   <a href="https://t.me/SergeevSS90"><img width="32px" alt="Telegram" title="Telegram" src="images/logo/Telegram.svg"/></a>
@@ -18,7 +18,7 @@
 
 <!-- Education section -->
 <details>	
-  <summary>👨‍🎓 𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷</summary>
+  <summary>👨‍🎓 𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷 👨‍🎓</summary>
   <table width="100%" border='0'>
     <tr>
         <td width="30%" align="center" valign="center">
@@ -49,7 +49,6 @@
 </table>
 </br>
   </details>
-  
 <!-- Tools section -->
 <details>	
   <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼</summary>
@@ -131,7 +130,7 @@
 𝑀𝓎 𝒞𝒱 𝓌𝒾𝓁𝓁 𝒷𝑒 𝒽𝑒𝓇𝑒 𝓈𝑜𝑜𝓃 😉  
 <br><img src="images/gifs/wfh.gif" alt="image" align="left" width="100"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;𝒞𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓌𝑜𝓇𝓀𝒾𝓃𝑔 𝒶𝓉 &#8287;<a href="https://bellintegrator.ru/"><img width="32px" alt="Bell Integrator" title="Bell Integrator" src="images/logo/Bell.png"/></a>
 <cut/>
-<br><img src="images/gifs/corgi.webp" alt="image" align="left" width="100"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;𝑀𝓎 𝒹𝑜𝑔 𝒶𝓁𝓈𝑜 𝓈𝒶𝓎𝓈 "𝐻𝐼"! &#8287;<a href="https://www.instagram.com/corgi_olivka/"><img width="32px" alt="Corgi Instagram" title="Corgi Instagram" src="images/logo/Instagram.png"/></a>
+<br><img src="images/gifs/corgi.webp" alt="image" align="left" width="100"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;𝑀𝓎 𝒹𝑜𝑔 𝒶𝓁𝓈𝑜 𝓈𝒶𝓎𝓈 "𝐻𝐼"! &#8287;<a href="https://www.instagram.com/corgi_olivka/"><img width="32px" alt="Corgi Instagram" title="Corgi Instagram" src="images/logo/Instagram.png"/></a>
 <cut/>  
 <br clear="left"/>
 <p>  
@@ -223,3 +222,4 @@
   <a href="https://github.com/SergeevSergeiS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 </details>
+</h3>  
