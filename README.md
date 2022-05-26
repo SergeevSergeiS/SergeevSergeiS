@@ -217,10 +217,17 @@
 <br> 
 <details>	
   <summary>🧑‍🎓 𝒬𝒜 𝒢𝒰𝑅𝒰</summary>
-<img title="wip" width="320px" src="images/logo/wip.png">
-</br>
+<p align="left">
+  <br>  
+    <div align=center>
+      <a align="left" href="https://github.com/SergeevSergeiS/Wildberries" title="Wildberries"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=Wildberries&theme=react&border_color=61dafb&border_radius=10"></a>
+    </a>
+    <a href="#" title="wip">
+      <img align="right" width=155 src="images/logo/wip.png" />
+    </a>
+<br>
 </details>
-</br>
+<br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/SergeevSergeiS?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
