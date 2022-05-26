@@ -19,6 +19,7 @@
 <!-- Education section -->
 <details>	
   <summary>👨‍🎓 𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷 👨‍🎓</summary>
+  <br>
   <table width="100%" border='0'>
     <tr>
         <td width="30%" align="center" valign="center">
