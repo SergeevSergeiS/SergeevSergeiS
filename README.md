@@ -53,7 +53,7 @@
 <!-- Tools section -->
 <details>	
   <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼</summary>
-  <p></p>  
+  <br>
  🤖 𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 𝒶𝓃𝒹 𝓂𝒶𝓇𝓀𝓊𝓅 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈
 <p>
 </p>  
@@ -110,7 +110,7 @@
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white"></a>
     <a href="#"><img alt="Selenoid" src="https://img.shields.io/badge/Selenoid-%230288D1.svg?&logo=Sequelize&logoColor=white"></a>
 </p>
-  
+<br>  
 </details>
 
 <!-- Additional info section -->
@@ -119,7 +119,7 @@
   
 ```mermaid
   gantt 
-    title 𝒲𝑜𝓇𝓀 𝑒𝓍𝓅𝑒𝓇𝒾𝑒𝓃𝒸𝑒
+    title 𝟪+ 𝓎𝑒𝒶𝓇𝓈 𝒾𝓃 𝐼𝒯. 𝒲𝑜𝓇𝓀 𝑒𝓍𝓅𝑒𝓇𝒾𝑒𝓃𝒸𝑒:
     dateFormat  YYYY-MM
     section 👨‍💻
     𝒮𝓊𝓅𝓅𝑜𝓇𝓉 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇         :done, 2014-02, 912d
@@ -134,8 +134,10 @@
 <br><img src="images/gifs/corgi.webp" alt="image" align="left" width="100"/> &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;𝑀𝓎 𝒹𝑜𝑔 𝒶𝓁𝓈𝑜 𝓈𝒶𝓎𝓈 "𝐻𝐼"! &#8287;<a href="https://www.instagram.com/corgi_olivka/"><img width="32px" alt="Corgi Instagram" title="Corgi Instagram" src="images/logo/Instagram.png"/></a>
 <cut/>  
 <br clear="left"/>
-<p></p>    
-🌍 𝐼 𝓈𝓅𝑒𝒶𝓀 𝑅𝓊𝓈𝓈𝒾𝒶𝓃 (𝓃𝒶𝓉𝒾𝓋𝑒), 𝐸𝓃𝑔𝓁𝒾𝓈𝒽 (𝐵𝟤)<p></p>  
+<p>  
+🌍 𝐼 𝓈𝓅𝑒𝒶𝓀 𝑅𝓊𝓈𝓈𝒾𝒶𝓃 (𝓃𝒶𝓉𝒾𝓋𝑒), 𝐸𝓃𝑔𝓁𝒾𝓈𝒽 (𝐵𝟤)
+</p>  
+<br>  
 </details>
 
 <!-- Github Stats section -->
