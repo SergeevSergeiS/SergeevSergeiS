@@ -68,6 +68,7 @@
  📚 𝐹𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒶𝓃𝒹 𝓁𝒾𝒷𝓇𝒶𝓇𝒾𝑒𝓈
 
 <p>
+    <a href="#"><img alt="Swing" src="https://img.shields.io/badge/Swing-000000.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"></a>  
     <a href="#"><img alt="Gson" src="https://img.shields.io/badge/Gson-000000.svg?logo=java&logoColor=white"></a>  
     <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit5-25A162.svg?logo=check-circle&logoColor=white"></a>
