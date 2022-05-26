@@ -49,9 +49,10 @@
 </table>
 </br>
   </details>
+<br>   
 <!-- Tools section -->
 <details>	
-  <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼</summary>
+  <summary>🛠️ 𝓕𝓪𝓿𝓸𝓾𝓻𝓲𝓽𝓮  𝓣𝓸𝓸𝓵𝓼 🛠️</summary>
   <br>
  🤖 𝒫𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔 𝒶𝓃𝒹 𝓂𝒶𝓇𝓀𝓊𝓅 𝓁𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈
 <p>
@@ -112,10 +113,10 @@
 </p>
 <br>  
 </details>
-
+<br> 
 <!-- Additional info section -->
 <details>	
-  <summary>🔍 𝓜𝓸𝓻𝓮 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</summary>
+  <summary>👨‍🦱 𝓜𝓸𝓻𝓮 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 👨‍🦱</summary>
   
 ```mermaid
   gantt 
@@ -139,10 +140,10 @@
 </p>  
 <br>  
 </details>
-
+<br> 
 <!-- Github Stats section -->
 <details>	
-  <summary>🔥 𝓖𝓲𝓽𝓗𝓾𝓫  𝓢𝓽𝓪𝓽𝓼</summary>
+  <summary>🔥 𝓖𝓲𝓽𝓗𝓾𝓫  𝓢𝓽𝓪𝓽𝓼 🔥</summary>
 
   <br>
 <p align=center>
@@ -165,11 +166,11 @@
 </p>
 </br>
 </details>
-
+<br> 
 <!-- Repos section -->
 <details>	
-  <summary>💻 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼</summary>
-  <p></p>  
+  <summary>💻 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝓲𝓮𝓼 💻</summary>
+  <br>   
   <details>	
    <summary>🧑‍🎓 𝒥𝑒𝓉𝐵𝓇𝒶𝒾𝓃𝓈 𝒜𝒸𝒶𝒹𝑒𝓂𝓎</summary>
   <p align="left">
@@ -208,11 +209,12 @@
     <a href="#" title="𝒫𝓇𝑜𝒿𝑒𝒸𝓉 𝒸𝑜𝓃𝓈𝑜𝓁𝑒">
       <img align="right" width=355 src="images/gifs/Editor.gif" />
     </a>     
-  <br><br><br><br><br>
+  <br><br>
   </div>
   </p>  
 </br>
 </details>
+<br> 
 <details>	
   <summary>🧑‍🎓 𝒬𝒜 𝒢𝒰𝑅𝒰</summary>
 <img title="wip" width="320px" src="images/logo/wip.png">
