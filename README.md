@@ -1,6 +1,5 @@
 <h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮 𝓪𝓷𝓭 𝔀𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓹𝓪𝓰𝓮!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝓜𝔂+𝓷𝓪𝓶𝓮+𝓲𝓼+𝓢𝓮𝓻𝓰𝓮𝓲;𝓘+𝔀𝓸𝓻𝓴+𝓪𝓼+𝓪+𝓠𝓐+𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻;𝓐𝓵𝔀𝓪𝔂𝓼+𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰+𝓷𝓮𝔀+𝓽𝓱𝓲𝓷𝓰𝓼;𝓝𝓲𝓬𝓮+𝓽𝓸+𝓶𝓮𝓮𝓽+𝔂𝓸𝓾!&font=Fira%20Code&center=true&width=650&height=50&color=61dafb&vCenter=true&size=26"></a></h1>
 </p>
