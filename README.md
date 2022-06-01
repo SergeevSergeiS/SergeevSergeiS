@@ -182,15 +182,16 @@
     <a href="#" title="𝒫𝓇𝑜𝒿𝑒𝒸𝓉 𝒸𝑜𝓃𝓈𝑜𝓁𝑒">
       <img align="right" width=355 src="images/gifs/Blockchain.gif" />
     </a>
+    <br><br><br><br><br><br><br><br>
   <p align="left">
-  <br>  
   <a target="_blank" align="center" href="https://hyperskill.org/projects/40">Project "Linear Equations Solver"</a>:
-    <div align=center>
+    <div align=left>
       <a align="left" href="https://github.com/SergeevSergeiS/LinearEquationsSolver" title="LinearEquationsSolver"><img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=LinearEquationsSolver&theme=react&border_color=61dafb&border_radius=10"></a>
     </a>
     <a href="#" title="𝒫𝓇𝑜𝒿𝑒𝒸𝓉 𝒸𝑜𝓃𝓈𝑜𝓁𝑒">
       <img align="right" width=355 src="images/gifs/LES.gif" />
     </a>
+    <br><br><br><br><br><br><br><br>
   <p align="left">
   <br>  
   <a target="_blank" align="center" href="https://hyperskill.org/projects/47?track=15">Project "Maze Runner"</a>:
@@ -200,6 +201,7 @@
     <a href="#" title="𝒫𝓇𝑜𝒿𝑒𝒸𝓉 𝒸𝑜𝓃𝓈𝑜𝓁𝑒">
       <img align="right" width=355 src="images/gifs/Maze.gif" />
     </a>
+    <br><br><br><br><br><br><br><br>
   <p align="left">
   <br>  
   <a target="_blank" align="center" href="https://hyperskill.org/projects/38">Project "Text Editor"</a>:
@@ -209,7 +211,7 @@
     <a href="#" title="𝒫𝓇𝑜𝒿𝑒𝒸𝓉 𝒸𝑜𝓃𝓈𝑜𝓁𝑒">
       <img align="right" width=355 src="images/gifs/Editor.gif" />
     </a>     
-  <br><br>
+  <br><br><br><br><br><br><br><br>
   </div>
   </p>  
 </br>
