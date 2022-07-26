@@ -220,14 +220,15 @@
 <details>	
   <summary>🧑‍🎓 𝒬𝒜 𝒢𝒰𝑅𝒰</summary>
 <p align="left">
-  <br>  
+<br>
+<a target="_blank" align="center" href="https://github.com/SergeevSergeiS/QA_GURU_DiplomaProject">Todoist task manager"</a>:  
     <div align=center>
       <a align="left" href="https://github.com/SergeevSergeiS/QA_GURU_DiplomaProject" title="QA_GURU_DiplomaProject"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=QA_GURU_DiplomaProject&theme=react&border_color=61dafb&border_radius=10"></a>
     </a>
     <a href="#" title="webTest">
       <img align="right" width=355 src="images/gifs/AddTaskWeb.gif" />
     </a>
-<br>
+<br><br><br><br>
 </details>
 <br><br><br><br><br>
 <h4 align="center">
