@@ -222,7 +222,7 @@
 <p align="left">
   <br>  
     <div align=center>
-      <a align="left" href="https://github.com/SergeevSergeiS/Wildberries" title="Wildberries"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=Wildberries&theme=react&border_color=61dafb&border_radius=10"></a>
+      <a align="left" href="https://github.com/SergeevSergeiS/QA_GURU_DiplomaProject" title="QA_GURU_DiplomaProject"><img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=SergeevSergeiS&repo=QA_GURU_DiplomaProject&theme=react&border_color=61dafb&border_radius=10"></a>
     </a>
     <a href="#" title="wip">
       <img align="right" width=155 src="images/logo/wip.png" />
